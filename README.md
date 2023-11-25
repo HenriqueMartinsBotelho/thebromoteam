@@ -8,6 +8,5 @@
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [MDX](https://mdxjs.com/)W
+- [MDX](https://mdxjs.com/)
 - [Docker](https://www.docker.com/)
-- [MySQL](https://www.mysql.com/)
